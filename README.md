@@ -1,0 +1,5 @@
+n=float(input("enter no.of feets:"))
+print(n)
+print("in inches:",n*12)
+print("in yards:",n*0.333333)
+print("in miles:",n*0.000189394)
